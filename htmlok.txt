@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV andrean kayis akmal</title>
+  </head>
+  <style>
+    h1 {
+      font-size: 16px;
+      font-weight: bold;
+    }
+    h2 {
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    p,
+    ol {
+      font-size: 12px;
+      padding-right: 40%;
+    }
+  </style>
+  <body>
+    <div class="Container">
+      <img src="pas photo.jpg" alt="" width="100" height="100" />
+      <div>
+        <h1>Andrean kayis Akmal</h1>
+        <hr />
+        <h2>About Me</h2>
+        <p>
+          Saya lulusan tahun 2020 dan saya tertarik mempelajari jaringan, saya
+          menguasai microsoft office dan saya sedang menempuh jenjang s1 teknik
+          informatika
+        </p>
+        <hr />
+        <h2>Experience</h2>
+        <ul>
+          <ol>
+            1. PT hitachi chemical indonesia (25 Mei 2018 - 20 Agustus 2018)
+          </ol>
+          <ol>
+            2. PT jvckenwood Elektronics Indonesia (2 November 2020 - 3 Februari
+            2023)
+          </ol>
+          <ol>
+            3. PT Yamaha Music Manufaktur Asia (27 juni 2023 - present)
+          </ol>
+        </ul>
+        <hr />
+        <h2>Edcation or Certification:</h2>
+        <ul>
+          <ol>
+            1. SMK PGRI 2 KARAWANG (2017 - 2020)
+          </ol>
+          <ol>
+            2. UNIVERSITAS BUANA PERJUANGAN (2022 - present)
+          </ol>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
